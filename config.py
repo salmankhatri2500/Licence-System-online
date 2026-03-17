@@ -1,6 +1,6 @@
 import os, json
 
-BOT_TOKEN      = os.environ.get("BOT_TOKEN", "")
+BOT_TOKEN      = os.environ.get("BOT_TOKEN", "8555471297:AAFNAyi8VBIERtoHrA46z47cdOcK5sznZ6g")
 SUPER_ADMIN_ID = int(os.environ.get("SUPER_ADMIN_ID", "6806779180"))
 MASTER_SHEET   = "FOS_Master"
 ADMIN_GMAIL    = "salmankhatri299@gmail.com"
